@@ -1,0 +1,25 @@
+.cv {
+    font-family: inherit;
+    font-size: 20px;
+    background: #212121;
+    color: white;
+    fill:white;
+    padding: 0.7em 1em;
+    padding-left: 0.9em;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 15px;
+    font-weight: 1000;
+    cursor: pointer;
+  }
+.cv span {
+    display: block;
+    margin-left: 0.3em;
+    transition: all 0.3s ease-in-out;
+  }
+  
+
+  
+  
+  
